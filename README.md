@@ -1,6 +1,6 @@
  <div align="center">
 
-# Hi there, I'm Harshh Malik 👋
+# Hi there, I'm Harsh Malik 👋
 
 ### 🚀 Full Stack Developer | CSE Student | Problem Solver
 
@@ -56,27 +56,35 @@
 ## 🚀 Featured Projects
 
 ### 🎓 Student Management System
-> Built using **Laravel** and **MySQL**
+*Built using Laravel, MySQL, Bootstrap, and PHP*
 - ✅ Complete CRUD Operations
 - 🔍 Search and Pagination
-- 🔐 Authentication and Role-Based Access Control
+- 👥 Student Record Management
+- 🛡️ Authentication and Role-Based Access Control
 - 📱 Responsive Bootstrap Interface
 
 ---
 
-### 📢 Notice Board Management System
-- 🔐 Admin and User Authentication
-- 🛡️ Role-Based Authorization
-- 📋 Notice Creation, Update, and Management
-- 🖥️ Secure Dashboard Access
+### 📢 Campus Notice Board
+*Built using Laravel, MySQL, Bootstrap, and Laravel Breeze*
+- 🔐 User Authentication and Authorization
+- 👥 Admin and User Role Management
+- 📝 Complete Notice CRUD Operations
+- 🔍 Search and Pagination
+- 📊 Dashboard Statistics
+- 📅 Notice Details and Published Date
+- 🛡️ Middleware-Based Access Control
+- 📱 Responsive Bootstrap Interface
 
 ---
 
 ### 🔗 URL Shortener
-> Built with **Node.js**, **Express.js**, **MongoDB**, and **EJS**
+*Built using Node.js, Express.js, MongoDB, and EJS*
 - 🔗 Generate and Manage Short URLs
-- 📊 Click Tracking and Analytics
-- 🖥️ Server-Side Rendering
+- 📈 Click Tracking and Analytics
+- 🖥️ Server-Side Rendering using EJS
+- ⚡ Fast URL Redirection
+- 🗄️ MongoDB Database Integration
 
 ---
 
@@ -98,20 +106,7 @@
 - 🧩 **220+ Total Problems Solved**
 - 💪 Active on **LeetCode**, **GeeksforGeeks**, and **Coding Ninjas**
 - 🚀 Consistently practicing problem solving and competitive programming
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Harshh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Malik45&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Malik45&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Harsh-Malik45&theme=github-dark-blue&hide_border=true)
-
-</div>
+- 🔗 Codolio: https://codolio.com/profile/harsh_20
 
 ---
 
@@ -140,6 +135,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-malik-378301343)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-Malik45)
+[![Codolio](https://img.shields.io/badge/Codolio-58A6FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/harsh_20)
 
 </div>
 
